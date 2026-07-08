@@ -161,7 +161,7 @@ img{
     border: none;
     outline: none;
     object-fit: cover;
-    mix-blend-mode:luminosity;
+    
 }
 @keyframes rotate{
     from{
